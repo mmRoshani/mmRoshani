@@ -1,7 +1,7 @@
 👨‍💻 Wlecome to [mmRoshani](https://mmroshani.ir) page!
 
 
-- 👌 Love to develop [Nodejs](https://nodejs.org/) , [C#](https://www.AreYouKiddingMe?.yes/) and [python](https://www.python.org/) based applications!
+- 👌 Like to develop [Nodejs](https://nodejs.org/) , [C#](https://www.AreYouKiddingMe?.yes/) and [python](https://www.python.org/) based applications!
 - ### :call_me_hand: Contact :
 
 <div id="badges">
@@ -37,4 +37,4 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MohammadMojtabaRoshani-TOMaaR&show_icons=true&theme=gotham" alt="MohammadMojtabaRoshani-TOMaaR" />
 
-- the `boring` or `hardest` way is always `better`
+- `boring` or `hardest` way not only `works` but also makes you `stronger` **MohammadMojtaba Roshani**
