@@ -3,8 +3,8 @@
 - ### 🗨 About me:
 
 
-  - ❤ Love to develop [Go](https://.go.dev) (the logo is really sus!)
-  - 👌 Like to develop [Nodejs](https://nodejs.org/), [C#](https://www.AreYouKiddingMe?.yes/) and [python](https://www.python.org/) based applications!
+  - ❤ Love to develop [Go](https://go.dev) (the logo is really sus!)
+  - 👌 Like to develop [Nodejs](https://nodejs.org/), [C#](https://www.AreYouKiddingMe/answer?query=yes/) and [python](https://www.python.org/) based applications!
   - 📚 *0.6* developer and *0.4* student
 
 - ### :call_me_hand: Contact:
