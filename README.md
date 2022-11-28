@@ -1,8 +1,13 @@
 👨‍💻 Wlecome to [mmRoshani](https://mmroshani.ir) page!
 
+- ### 🗨 About me:
 
-- 👌 Like to develop [Nodejs](https://nodejs.org/) , [C#](https://www.AreYouKiddingMe?.yes/) and [python](https://www.python.org/) based applications!
-- ### :call_me_hand: Contact :
+
+  - ❤ Love to develop [Go](https://.go.dev) (the logo is really sus!)
+  - 👌 Like to develop [Nodejs](https://nodejs.org/), [C#](https://www.AreYouKiddingMe?.yes/) and [python](https://www.python.org/) based applications!
+  - 📚 *0.6* developer and *0.4* student
+
+- ### :call_me_hand: Contact:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/mohammad-mojtaba-roshani">
@@ -13,7 +18,7 @@
 ---
 [![wakatime](https://wakatime.com/badge/user/8cc922b8-6cfd-4fe1-9f90-c85b808944f1.svg)](https://wakatime.com/@8cc922b8-6cfd-4fe1-9f90-c85b808944f1)
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="javascript" alt="javascript" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="50" height="50"/>&nbsp;
