@@ -3,7 +3,7 @@
 - ### 🗨 About me:
 
 
-  - ❤ Love to develop [Go](https://go.dev) (the logo is really sus!)
+  - ❤ Love to develop & deploy!
   - 👌 Like to develop [Nodejs](https://nodejs.org/), [C#](https://www.AreYouKiddingMe/answer?query=yes/) and [python](https://www.python.org/) based applications!
   - 📚 *0.6* developer and *0.4* student
 
@@ -20,7 +20,6 @@
 
 ### :hammer_and_wrench: Languages and Tools:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="javascript" alt="javascript" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" **alt="csharp" width="50" height="50"/>&nbsp;
