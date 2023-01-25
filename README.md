@@ -5,7 +5,7 @@
   - ##### ❤ Love to
     - Developing real-time backend!
     - Publish my ideas as open-source packages!
-    - Solving challenges with AI
+    - Solving challenges with AI!
     - Working on sth way too tough!
   - ##### 👌 Like to develop with
       -   [Nodejs](https://nodejs.org/)
