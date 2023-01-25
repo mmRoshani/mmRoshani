@@ -1,4 +1,10 @@
+<div align="center">
+  
 👨‍💻 Wlecome to [my](https://mmroshani.ir) page!
+  
+</div>
+
+---
 
 ### 🗨 About me
 
@@ -15,12 +21,18 @@
     -  *big data* engineer
   - 📚 *0.6* developer and *0.4* student
 
-- ### :call_me_hand: Contact
+---
+
+### :call_me_hand: Contact
+
+In [github discussions](https://github.com/mmRoshani/mmRoshani/discussions) or
 
 <div id="badges">
+  
   <a href="https://www.linkedin.com/in/mohammad-mojtaba-roshani">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Badge" width="40" height="40"/>
-  </a>
+  </a>&nbsp; 
+  
 </div>
 
 ---
