@@ -1,13 +1,21 @@
-👨‍💻 Wlecome to [mmRoshani](https://mmroshani.ir) page!
+👨‍💻 Wlecome to [my](https://mmroshani.ir) page!
 
-- ### 🗨 About me:
+### 🗨 About me
 
-
-  - ❤ Love to develop & deploy!
-  - 👌 Like to develop [Nodejs](https://nodejs.org/), [C#](https://www.AreYouKiddingMe/answer?query=yes/) and [python](https://www.python.org/) based applications!
+  - ##### ❤ Love to
+    - Developing real-time backend!
+    - Publish my ideas as open-source packages!
+    - Solving challenges with AI
+    - Working on sth way too tough!
+  - ##### 👌 Like to develop with
+      -   [Nodejs](https://nodejs.org/)
+      -   [C#](https://www.AreYouKiddingMe/answer?query=yes/) 
+      -   [python](https://www.python.org/)
+  - ##### 👁‍🗨 looking forward to becoming
+    -  *big data* engineer
   - 📚 *0.6* developer and *0.4* student
 
-- ### :call_me_hand: Contact:
+- ### :call_me_hand: Contact
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/mohammad-mojtaba-roshani">
@@ -16,9 +24,8 @@
 </div>
 
 ---
-[![wakatime](https://wakatime.com/badge/user/8cc922b8-6cfd-4fe1-9f90-c85b808944f1.svg)](https://wakatime.com/@8cc922b8-6cfd-4fe1-9f90-c85b808944f1)
 
-### :hammer_and_wrench: Languages and Tools:
+### :hammer_and_wrench: Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
@@ -39,7 +46,7 @@
   
 ---
 
-Participate in
+### Contributor in
 
 <div>
 <a href="https://www.npmjs.com/package/sequelize-typescript-migration-lts"  target="_blank"><img src="https://github.com/mmRoshani/sequelize-typescript-migration/blob/master/doc/assets/sequelize-logo-443x512.png" title="sequelize-typescript-migration-lts" **alt="sequelize-typescript-migration-lts" width="50" height="50"/></a>&nbsp; 
@@ -48,8 +55,16 @@ Participate in
 
 ---
 
-### `mmRoshani` github stats:
+### Metrics
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mmRoshani&show_icons=true&theme=gotham" alt="MohammadMojtabaRoshani-TOMaaR" />
+<div align="center">
+  
+<p> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mmRoshani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="mmRoshani"/> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mmRoshani&layout=compact&langs_count=7&theme=algolia"alt="mmRoshani"/></p>
+
+[![wakatime](https://wakatime.com/badge/user/8cc922b8-6cfd-4fe1-9f90-c85b808944f1.svg)](https://wakatime.com/@8cc922b8-6cfd-4fe1-9f90-c85b808944f1)
+
+ </div>
+ 
+---
 
 - `boring` or `hardest` way not only `works` but also makes you `stronger` *MohammadMojtaba Roshani*
