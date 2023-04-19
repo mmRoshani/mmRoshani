@@ -96,8 +96,9 @@ In [github discussions](https://github.com/mmRoshani/mmRoshani/discussions) or
 <div align="center">
   
 <p> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mmRoshani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="mmRoshani"/> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mmRoshani&layout=compact&langs_count=7&theme=algolia"alt="mmRoshani"/>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
     </p>
+ <img src="https://wakatime.com/badge/user/8cc922b8-6cfd-4fe1-9f90-c85b808944f1.svg" alt="wakatime" />
+ 
  
 </div>
  
