@@ -11,7 +11,7 @@
 
 ---
 
-### 🗨 About me
+### About me
 
   - ##### ❤ Love to
     - Developing real-time backend!
@@ -69,7 +69,7 @@ In [github discussions](https://github.com/mmRoshani/mmRoshani/discussions) or
 </div>
 
 
-#### Additional
+#### Others
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="50" height="50"/>&nbsp;
