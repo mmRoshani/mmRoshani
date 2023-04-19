@@ -7,8 +7,6 @@
 
 </div>
 
-<img align="right" height="" width="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mmroshani&hide_title=true&hide_border=true&langs_count=20&bg_color=00000000&text_color=777" />
-
 ---
 
 ### About me
@@ -42,6 +40,9 @@ In [github discussions](https://github.com/mmRoshani/mmRoshani/discussions) or
   </a>&nbsp; 
   
 </div>
+
+
+<img align="right" height="" width="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mmroshani&hide_title=true&hide_border=true&langs_count=20&bg_color=00000000&text_color=777" />
 
 ---
 
