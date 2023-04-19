@@ -1,7 +1,7 @@
 <div align="center">
     
 ####  MohammadMojtaba Roshani
-*Junior software engineer*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=435&lines=Junior+software+%26+data+engineer)](https://git.io/typing-svg)
     
   ![Snake animation](https://github.com/mmRoshani/mmRoshani/blob/output/github-contribution-grid-snake.svg)
 
