@@ -2,13 +2,12 @@
     
 ####  MohammadMojtaba Roshani
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=435&lines=Junior+software+%26+data+engineer)](https://git.io/typing-svg)
-   
+    
   ![Snake animation](https://github.com/mmRoshani/mmRoshani/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
-<img align="right" height="180em" width="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mmroshani&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
-</a>
+<img align="right" height="" width="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mmroshani&hide_title=true&hide_border=true&langs_count=20&bg_color=00000000&text_color=777" />
 
 ---
 
