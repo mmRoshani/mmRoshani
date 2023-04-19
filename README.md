@@ -16,7 +16,7 @@
   - ##### ❤ Love to
     - Developing real-time backend!
     - Programming distributed systems with java!
-    - Stream and time-series processing 
+    - Stream and time-series processing!
     - Publish my ideas as open-source packages!
     - Solving challenges with AI!
     - Working on sth way too tough!
