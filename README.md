@@ -2,8 +2,6 @@
     
 ####  MohammadMojtaba Roshani
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=435&lines=Junior+software+%26+data+engineer)](https://git.io/typing-svg)
-    
-  ![Snake animation](https://github.com/mmRoshani/mmRoshani/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -95,7 +93,9 @@ In [github discussions](https://github.com/mmRoshani/mmRoshani/discussions) or
 
 <div align="center">
   
-<p> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mmRoshani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="mmRoshani"/> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mmRoshani&layout=compact&langs_count=7&theme=algolia"alt="mmRoshani"/>
+![Snake animation](https://github.com/mmRoshani/mmRoshani/blob/output/github-contribution-grid-snake.svg)
+    
+<p> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mmRoshani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="mmRoshani"/> 
     </p>
  <img src="https://wakatime.com/badge/user/8cc922b8-6cfd-4fe1-9f90-c85b808944f1.svg" alt="wakatime" />
  
