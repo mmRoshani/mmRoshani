@@ -88,15 +88,16 @@ In [github discussions](https://github.com/mmRoshani/mmRoshani/discussions) or
 
 ---
 
-### Contributor in
+### Contributes
 
 <div align="left">
     
-package name | github | npm 
---- | --- | ---
-sequelize-typescript-migration-lts | [github](https://github.com/mmRoshani/sequelize-typescript-migration)  | [npm](https://www.npmjs.com/package/sequelize-typescript-migration-lts)
-parsimap | [github](https://github.com/mmRoshani/parsimap) | [npm](https://www.npmjs.com/package/parsimap)
-@rahkarsanat/kiz-sdk | [github](https://github.com/RahkarSanat/kiz-sdk-js) | [npm](https://www.npmjs.com/package/@rahkarsanat/kiz-sdk)
+i | package name | github | npm | downloads | linkedin | introduction
+ --- | --- | --- | --- | --- | --- | ---
+1 | sequelize-typescript-migration-lts | [ 🔗 hop ](https://github.com/mmRoshani/sequelize-typescript-migration)  | [ 🔗 dop ](https://www.npmjs.com/package/sequelize-typescript-migration-lts) | ![sequelize-typescript-migration](https://img.shields.io/npm/dm/sequelize-typescript-migration.svg) | [ 🔗 mop ](https://www.linkedin.com/posts/mmroshani_sequelize-typescript-migration-lts-activity-6957411163479363584-O4SQ) | [ 🔗 gop ](https://www.youtube.com/embed/bBv75hssPKk)
+2 |  @rahkarsanat/kiz-sdk | [ 🔗 lab ](https://github.com/RahkarSanat/kiz-sdk-js) | [ 🔗 sub ](https://www.npmjs.com/package/@rahkarsanat/kiz-sdk) | ![parsimap](https://img.shields.io/npm/dm/@rahkarsanat/kiz-sdk.svg) | N/A | N/A
+3 | parsimap | [ 🔗 shop ](https://github.com/mmRoshani/parsimap) | [ 🔗 pop ](https://www.npmjs.com/package/parsimap) | ![parsimap](https://img.shields.io/npm/dm/parsimap.svg) | [ 🔗 fab ](https://www.linkedin.com/posts/mmroshani_parsimap-activity-7058132048963612672-ZD1E) | N/A
+
 
   
 </div>
