@@ -90,10 +90,16 @@ In [github discussions](https://github.com/mmRoshani/mmRoshani/discussions) or
 
 ### Contributor in
 
-<div>
-<a href="https://www.npmjs.com/package/sequelize-typescript-migration-lts"  target="_blank"><img src="https://github.com/mmRoshani/sequelize-typescript-migration/blob/master/doc/assets/sequelize-logo-443x512.png" title="sequelize-typescript-migration-lts" **alt="sequelize-typescript-migration-lts" width="50" height="50"/></a>&nbsp; 
-</div>
+<div align="left">
+    
+package name | github | npm 
+--- | --- | ---
+sequelize-typescript-migration-lts | [github](https://github.com/mmRoshani/sequelize-typescript-migration)  | [npm](https://www.npmjs.com/package/sequelize-typescript-migration-lts)
+parsimap | [github](https://github.com/mmRoshani/parsimap) | [npm](https://www.npmjs.com/package/parsimap)
+@rahkarsanat/kiz-sdk | [github](https://github.com/RahkarSanat/kiz-sdk-js) | [npm](https://www.npmjs.com/package/@rahkarsanat/kiz-sdk)
 
+  
+</div>
 
 ---
 
