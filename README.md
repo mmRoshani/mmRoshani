@@ -11,13 +11,14 @@
 
   - ##### ❤ Love to
     - Developing real-time backend!
-    - Programming distributed systems with java!
+    - Programming distributed systems!
     - Stream and time-series processing!
     - Publish my ideas as open-source packages!
     - Solving challenges with AI!
     - Working on sth way too tough!
   - ##### 👌 Like to develop with
-      -   [NodeJS](https://nodejs.org/) 
+      -   [NodeJS](https://nodejs.org/)
+      -   [GO](https://go_charlie_it_'_s_your_birthday)
       -   [Python](https://www.python.org/)
       -   [Java](https://www.AreYouKiddingMe/answer?query=yes/)
       -   [C#](https://www.AreYouKiddingMe/answer?query=yes/)
