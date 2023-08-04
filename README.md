@@ -18,7 +18,7 @@
     - Working on sth way too tough!
   - ##### 👌 Like to develop with
       -   [NodeJS](https://nodejs.org/)
-      -   [GO](https://go_charlie_it_'_s_your_birthday)
+      -   [Go](https://go_charlie_it_'_s_your_birthday)
       -   [Python](https://www.python.org/)
       -   [Java](https://www.AreYouKiddingMe/answer?query=yes/)
       -   [C#](https://www.AreYouKiddingMe/answer?query=yes/)
@@ -51,6 +51,7 @@ In [github discussions](https://github.com/mmRoshani/mmRoshani/discussions) or
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Go" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" **alt="java" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" **alt="csharp" width="50" height="50"/>&nbsp;
