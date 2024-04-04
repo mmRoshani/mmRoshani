@@ -17,13 +17,12 @@
     - Solving challenges with AI!
     - Working on sth way too tough!
   - ##### 👌 Like to develop with
+      -   [Rust](https://www.rust-lang.org)
       -   [NodeJS](https://nodejs.org/)
-      -   [Go](https://go_charlie_it_'_s_your_birthday)
       -   [Python](https://www.python.org/)
-      -   [Java](https://www.AreYouKiddingMe/answer?query=yes/)
       -   [C#](https://www.AreYouKiddingMe/answer?query=yes/)
   - ##### 👁‍🗨 looking forward to becoming
-    -  *big data* engineer
+    -  *Distributed System* engineer
   - 📚 *0.6* developer and *0.4* student
 
 ---
@@ -50,12 +49,11 @@ In [github discussions](https://github.com/mmRoshani/mmRoshani/discussions) or
 #### Software Engineering
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Go" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="RustLang" alt="Rust" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" **alt="csharp" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="node-js" **alt="node-js" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="nestjs" **alt="nestjs" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="nestjs" **alt="nestjs" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" **alt="express" width="50" height="50"/>&nbsp;
 </div>
 
@@ -72,10 +70,11 @@ In [github discussions](https://github.com/mmRoshani/mmRoshani/discussions) or
 #### Others
 
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="arch linux" **alt="Endever OS" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="neovim" **alt="nvim" width="50" height="50"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" **alt="docker" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs" **alt="vuejs" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="nestjs" **alt="nestjs" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" **alt="git" width="50" height="50"/>&nbsp;
 </div>
 
