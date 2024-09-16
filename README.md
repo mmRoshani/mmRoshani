@@ -15,13 +15,9 @@
     - Publish my ideas as open-source packages!
     - Solving challenges with AI!
     - Working on sth way too tough!
-  - ##### 👌 Like to develop with
-      -   [Rust](https://www.rust-lang.org)
-      -   [NodeJS](https://nodejs.org/)
-      -   [Python](https://www.python.org/)
-      -   [C#](https://www.AreYouKiddingMe/answer?query=yes/)
+  - ##### 👌 Like to develop, a system that is distributed with any language.
   - ##### 👁‍🗨 looking forward to becoming
-    -  *Distributed System* engineer
+    -  Senior *Distributed System* engineer
   - 📚 *0.6* developer and *0.4* student
 
 ---
@@ -49,6 +45,7 @@ In [github discussions](https://github.com/mmRoshani/mmRoshani/discussions) or
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="GoLang" alt="Go" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="RustLang" alt="Rust" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" **alt="csharp" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="node-js" **alt="node-js" width="50" height="50"/>&nbsp;
@@ -76,6 +73,9 @@ In [github discussions](https://github.com/mmRoshani/mmRoshani/discussions) or
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" **alt="git" width="50" height="50"/>&nbsp;
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
@@ -112,7 +112,12 @@ i | package name | github | npm | downloads | linkedin | introduction
 <p> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mmRoshani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="mmRoshani"/> 
     </p>
  <img src="https://wakatime.com/badge/user/8cc922b8-6cfd-4fe1-9f90-c85b808944f1.svg" alt="wakatime" />
- 
+
+ ![Chart not found](https://github.com/mmRoshani/mmRoshani/blob/main/assets/bar_graph.png?raw=true) 
+
+<p>
+    NOTE: Languages do not indicate my skill level or anything like that. It is just a metric of which I have hosted languages on GitHub based on the usage across repositories. There are others that I haven't put up on GitHub.
+</p>
  
 </div>
  
