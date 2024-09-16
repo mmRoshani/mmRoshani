@@ -74,80 +74,6 @@ In [github discussions](https://github.com/mmRoshani/mmRoshani/discussions) or
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" **alt="git" width="50" height="50"/>&nbsp;
 </div>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C170%20hrs%203%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 234.3 kB Used in GitHub's Storage 
- > 
-> 🏆 353 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 92 Public Repositories 
- > 
-> 🔑 66 Private Repositories 
- > 
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   223 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-Tuesday                  222 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Wednesday                342 commits         ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-Thursday                 179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Friday                   142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-Saturday                 198 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Sunday                   160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Go                       8 hrs 7 mins        ███████████████░░░░░░░░░░   58.20 % 
-Makefile                 2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-TypeScript               1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Protocol Buffer          1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-
-🔥 Editors: 
-VS Code                  13 hrs 57 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-broker-service           3 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-common                   3 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
-config-service           1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-web-service              1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-logger-service           1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-
-💻 Operating System: 
-Linux                    13 hrs 57 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Go** 
-
-```text
-Go                       16 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-TypeScript               16 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Python                   10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Makefile                 5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/mmRoshani/mmRoshani/main/assets/bar_graph.png)
-
-
- Last Updated on 16/09/2024 12:18:28 UTC
-<!--END_SECTION:waka-->
-
 ---
 
 ### Articles
@@ -182,14 +108,15 @@ i | package name | github | npm | downloads | linkedin | introduction
     
 <p> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mmRoshani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="mmRoshani"/> 
     </p>
- <img src="https://wakatime.com/badge/user/8cc922b8-6cfd-4fe1-9f90-c85b808944f1.svg" alt="wakatime" />
 
- ![Chart not found](https://github.com/mmRoshani/mmRoshani/blob/main/assets/bar_graph.png?raw=true) 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 <p>
     NOTE: Languages do not indicate my skill level or anything like that. It is just a metric of which I have hosted languages on GitHub based on the usage across repositories. There are others that I haven't put up on GitHub.
 </p>
- 
+
 </div>
  
 ---
