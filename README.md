@@ -112,30 +112,30 @@ i | package name | github | npm | downloads | linkedin | introduction
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C170%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-185-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-264-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 234.3 kB Used in GitHub's Storage 
  > 
-> 🏆 350 Contributions in the Year 2024
+> 🏆 354 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 92 Public Repositories 
+> 📜 89 Public Repositories 
  > 
 > 🔑 66 Private Repositories 
  > 
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   224 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Tuesday                  222 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Wednesday                342 commits         ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
-Thursday                 179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Friday                   142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Saturday                 198 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Sunday                   160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Monday                   225 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Tuesday                  222 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Wednesday                342 commits         ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Thursday                 179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Friday                   142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Saturday                 198 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Sunday                   160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
 ```
 
 
@@ -180,7 +180,7 @@ Shell                    3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mmRoshani/mmRoshani/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2024 12:24:20 UTC
+ Last Updated on 17/09/2024 01:03:07 UTC
 <!--END_SECTION:waka-->
 
 <p>
