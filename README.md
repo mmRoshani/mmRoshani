@@ -116,7 +116,7 @@ i | package name | github | npm | downloads | linkedin | introduction
 
 **🐱 My GitHub Data** 
 
-> 📦 234.6 kB Used in GitHub's Storage 
+> 📦 234.5 kB Used in GitHub's Storage 
  > 
 > 🏆 392 Contributions in the Year 2024
  > 
@@ -179,7 +179,7 @@ Shell                    3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mmRoshani/mmRoshani/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2024 01:17:32 UTC
+ Last Updated on 10/10/2024 01:17:56 UTC
 <!--END_SECTION:waka-->
 
 <p>
