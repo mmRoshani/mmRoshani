@@ -110,15 +110,15 @@ i | package name | github | npm | downloads | linkedin | introduction
     </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C195%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C198%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 254.7 kB Used in GitHub's Storage 
+> 📦 254.8 kB Used in GitHub's Storage 
  > 
-> 🏆 412 Contributions in the Year 2024
+> 🏆 414 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -126,41 +126,6 @@ i | package name | github | npm | downloads | linkedin | introduction
  > 
 > 🔑 66 Private Repositories 
  > 
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   225 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Tuesday                  222 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Wednesday                351 commits         ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-Thursday                 191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Friday                   143 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Saturday                 229 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Sunday                   162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Go                       3 hrs 38 mins       ██████████████████████░░░   86.02 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-Makefile                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-SQL                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 13 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-backend-go               4 hrs 12 mins       █████████████████████████   99.77 % 
-broker-service           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-dls-platform             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-💻 Operating System: 
-Linux                    4 hrs 13 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -178,7 +143,7 @@ Shell                    3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mmRoshani/mmRoshani/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2024 01:16:27 UTC
+ Last Updated on 27/10/2024 01:23:46 UTC
 <!--END_SECTION:waka-->
 
 <p>
