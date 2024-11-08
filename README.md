@@ -118,6 +118,8 @@ i | package name | github | npm | downloads | linkedin | introduction
 
 > 📦 254.8 kB Used in GitHub's Storage 
  > 
+> 🏆 421 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 91 Public Repositories 
@@ -170,7 +172,7 @@ Shell                    3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mmRoshani/mmRoshani/main/assets/bar_graph.png)
 
 
- Last Updated on 07/11/2024 01:17:18 UTC
+ Last Updated on 08/11/2024 01:17:22 UTC
 <!--END_SECTION:waka-->
 
 <p>
