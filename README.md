@@ -110,7 +110,7 @@ i | package name | github | npm | downloads | linkedin | introduction
     </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C206%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C208%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -118,7 +118,7 @@ i | package name | github | npm | downloads | linkedin | introduction
 
 > 📦 254.8 kB Used in GitHub's Storage 
  > 
-> 🏆 421 Contributions in the Year 2024
+> 🏆 422 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -129,13 +129,13 @@ i | package name | github | npm | downloads | linkedin | introduction
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   226 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Tuesday                  222 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Wednesday                351 commits         ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-Thursday                 194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Friday                   143 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Saturday                 229 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Sunday                   167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Monday                   226 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Tuesday                  222 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Wednesday                351 commits         ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+Thursday                 194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Friday                   144 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Saturday                 229 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Sunday                   167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
 ```
 
 
@@ -143,16 +143,22 @@ Sunday                   167 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       1 hr 23 mins        ███████████████████████░░   92.13 % 
+GitIgnore file           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   1 hr 27 mins        ████████████████████████░   96.98 % 
+VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+backend-go               1 hr 27 mins        ████████████████████████░   96.98 % 
+Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 30 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -172,7 +178,7 @@ Shell                    3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mmRoshani/mmRoshani/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2024 01:17:22 UTC
+ Last Updated on 09/11/2024 01:15:46 UTC
 <!--END_SECTION:waka-->
 
 <p>
