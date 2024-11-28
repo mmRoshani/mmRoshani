@@ -110,15 +110,15 @@ i | package name | github | npm | downloads | linkedin | introduction
     </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C220%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C220%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 393.4 kB Used in GitHub's Storage 
+> 📦 394.2 kB Used in GitHub's Storage 
  > 
-> 🏆 430 Contributions in the Year 2024
+> 🏆 429 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -126,41 +126,6 @@ i | package name | github | npm | downloads | linkedin | introduction
  > 
 > 🔑 67 Private Repositories 
  > 
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   226 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Tuesday                  222 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Wednesday                352 commits         ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-Thursday                 198 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Friday                   144 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Saturday                 231 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Sunday                   167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   7 hrs 30 mins       █████████████████████████   98.55 % 
-CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Jupyter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-
-🔥 Editors: 
-VS Code                  7 hrs 34 mins       █████████████████████████   99.55 % 
-PyCharm                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-
-🐱‍💻 Projects: 
-final notebook           7 hrs 36 mins       █████████████████████████   99.88 % 
-notebooks                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-
-💻 Operating System: 
-Linux                    7 hrs 37 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -178,7 +143,7 @@ Makefile                 4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mmRoshani/mmRoshani/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2024 01:24:38 UTC
+ Last Updated on 28/11/2024 01:23:46 UTC
 <!--END_SECTION:waka-->
 
 <p>
