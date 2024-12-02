@@ -110,6 +110,8 @@ i | package name | github | npm | downloads | linkedin | introduction
     </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C221%20hrs%2014%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -124,6 +126,38 @@ i | package name | github | npm | downloads | linkedin | introduction
  > 
 > 🔑 67 Private Repositories 
  > 
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   226 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Tuesday                  222 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Wednesday                352 commits         ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+Thursday                 198 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Friday                   144 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Saturday                 231 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Sunday                   167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Go                       44 mins             ████████████████████░░░░░   79.36 % 
+Python                   11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+
+🔥 Editors: 
+GoLand                   44 mins             ████████████████████░░░░░   79.36 % 
+VS Code                  11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+
+🐱‍💻 Projects: 
+backend-go               44 mins             ████████████████████░░░░░   79.36 % 
+final notebook           11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+
+💻 Operating System: 
+Linux                    56 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -141,7 +175,7 @@ Makefile                 4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mmRoshani/mmRoshani/main/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2024 01:44:22 UTC
+ Last Updated on 02/12/2024 01:26:29 UTC
 <!--END_SECTION:waka-->
 
 <p>
