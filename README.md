@@ -110,7 +110,7 @@ i | package name | github | npm | downloads | linkedin | introduction
     </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C246%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C250%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -118,14 +118,48 @@ i | package name | github | npm | downloads | linkedin | introduction
 
 > 📦 442.1 kB Used in GitHub's Storage 
  > 
-> 🏆 510 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 94 Public Repositories 
  > 
 > 🔑 70 Private Repositories 
  > 
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   251 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Tuesday                  222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Wednesday                356 commits         ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+Thursday                 198 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Friday                   160 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Saturday                 249 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Sunday                   173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   4 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   31.55 % 
+Other                    2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+Markdown                 1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+YAML                     1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Makefile                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+
+🔥 Editors: 
+VS Code                  14 hrs 52 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+distances                5 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   39.84 % 
+project-django-mvc       5 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   39.19 % 
+final notebook           2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+examples                 1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+
+💻 Operating System: 
+Linux                    14 hrs 52 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -143,7 +177,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mmRoshani/mmRoshani/main/assets/bar_graph.png)
 
 
- Last Updated on 22/12/2024 01:24:36 UTC
+ Last Updated on 23/12/2024 01:20:15 UTC
 <!--END_SECTION:waka-->
 
 <p>
