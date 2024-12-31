@@ -118,6 +118,8 @@ i | package name | github | npm | downloads | linkedin | introduction
 
 > 📦 442.2 kB Used in GitHub's Storage 
  > 
+> 🏆 558 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 94 Public Repositories 
@@ -179,7 +181,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mmRoshani/mmRoshani/main/assets/bar_graph.png)
 
 
- Last Updated on 30/12/2024 01:20:58 UTC
+ Last Updated on 31/12/2024 01:18:51 UTC
 <!--END_SECTION:waka-->
 
 <p>
