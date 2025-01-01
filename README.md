@@ -110,15 +110,15 @@ i | package name | github | npm | downloads | linkedin | introduction
     </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C267%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C267%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 442.2 kB Used in GitHub's Storage 
+> 📦 442.1 kB Used in GitHub's Storage 
  > 
-> 🏆 558 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -126,44 +126,6 @@ i | package name | github | npm | downloads | linkedin | introduction
  > 
 > 🔑 70 Private Repositories 
  > 
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   256 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Tuesday                  235 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Wednesday                367 commits         ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
-Thursday                 206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Friday                   165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Saturday                 253 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Sunday                   173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   14 hrs 25 mins      █████████████████████░░░░   85.71 % 
-CSV                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-Makefile                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-
-🔥 Editors: 
-VS Code                  16 hrs 45 mins      █████████████████████████   99.59 % 
-PyCharm                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-
-🐱‍💻 Projects: 
-safe-pfl                 10 hrs 43 mins      ████████████████░░░░░░░░░   63.69 % 
-examples                 1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-distances                1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-plotter                  1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-final notebook           35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-
-💻 Operating System: 
-Linux                    16 hrs 49 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -181,7 +143,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mmRoshani/mmRoshani/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2024 01:18:51 UTC
+ Last Updated on 01/01/2025 01:25:11 UTC
 <!--END_SECTION:waka-->
 
 <p>
