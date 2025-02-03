@@ -110,7 +110,7 @@ i | package name | github | npm | downloads | linkedin | introduction
     </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C323%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C325%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -118,7 +118,7 @@ i | package name | github | npm | downloads | linkedin | introduction
 
 > 📦 442.3 kB Used in GitHub's Storage 
  > 
-> 🏆 49 Contributions in the Year 2025
+> 🏆 52 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -126,43 +126,6 @@ i | package name | github | npm | downloads | linkedin | introduction
  > 
 > 🔑 71 Private Repositories 
  > 
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   258 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Tuesday                  244 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Wednesday                372 commits         █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-Thursday                 214 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Friday                   174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Saturday                 255 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Sunday                   182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   14 hrs              ███████████████████████░░   90.44 % 
-Makefile                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-
-🔥 Editors: 
-VS Code                  15 hrs 28 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-safe-pfl                 8 hrs 44 mins       ██████████████░░░░░░░░░░░   56.51 % 
-examples                 2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-safe-pfl-utils           2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-clustered-federated-learn1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-distances                39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-
-💻 Operating System: 
-Windows                  15 hrs 28 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -180,7 +143,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mmRoshani/mmRoshani/main/assets/bar_graph.png)
 
 
- Last Updated on 02/02/2025 01:20:54 UTC
+ Last Updated on 03/02/2025 01:18:24 UTC
 <!--END_SECTION:waka-->
 
 <p>
