@@ -110,15 +110,13 @@ i | package name | github | npm | downloads | linkedin | introduction
     </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C373%20hrs%202%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 442.4 kB Used in GitHub's Storage 
  > 
-> 🏆 67 Contributions in the Year 2025
+> 🏆 71 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -126,42 +124,6 @@ i | package name | github | npm | downloads | linkedin | introduction
  > 
 > 🔑 71 Private Repositories 
  > 
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   259 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Tuesday                  246 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Wednesday                375 commits         █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-Thursday                 217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Friday                   174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Saturday                 257 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Sunday                   189 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   19 hrs 7 mins       ████████████████████████░   97.53 % 
-Docker                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔥 Editors: 
-VS Code                  19 hrs 36 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-safe-pfl                 16 hrs 55 mins      ██████████████████████░░░   86.35 % 
-examples                 1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-distances                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-clustered-federated-learn27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-openfhe-python           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-
-💻 Operating System: 
-Windows                  19 hrs 36 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -179,7 +141,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mmRoshani/mmRoshani/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2025 01:17:48 UTC
+ Last Updated on 16/02/2025 01:24:31 UTC
 <!--END_SECTION:waka-->
 
 <p>
