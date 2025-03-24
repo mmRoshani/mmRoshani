@@ -110,7 +110,7 @@ i | package name | github | npm | downloads | linkedin | introduction
     </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C417%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C418%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -126,41 +126,6 @@ i | package name | github | npm | downloads | linkedin | introduction
  > 
 > 🔑 69 Private Repositories 
  > 
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   260 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Tuesday                  244 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Wednesday                390 commits         ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
-Thursday                 217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Friday                   178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Saturday                 268 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Sunday                   197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   12 hrs 53 mins      ███████████████████████░░   92.39 % 
-Image (svg)              45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔥 Editors: 
-VS Code                  13 hrs 57 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-examples                 9 hrs 36 mins       █████████████████░░░░░░░░   68.90 % 
-safe-pfl                 3 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   27.58 % 
-distances                29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-
-💻 Operating System: 
-Windows                  13 hrs 57 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -178,7 +143,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mmRoshani/mmRoshani/main/assets/bar_graph.png)
 
 
- Last Updated on 23/03/2025 01:40:16 UTC
+ Last Updated on 24/03/2025 01:36:35 UTC
 <!--END_SECTION:waka-->
 
 <p>
