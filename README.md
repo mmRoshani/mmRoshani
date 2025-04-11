@@ -110,7 +110,7 @@ i | package name | github | npm | downloads | linkedin | introduction
     </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C426%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C427%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -118,7 +118,7 @@ i | package name | github | npm | downloads | linkedin | introduction
 
 > 📦 442.5 kB Used in GitHub's Storage 
  > 
-> 🏆 108 Contributions in the Year 2025
+> 🏆 109 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -126,6 +126,43 @@ i | package name | github | npm | downloads | linkedin | introduction
  > 
 > 🔑 69 Private Repositories 
  > 
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Tuesday                  244 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Wednesday                388 commits         ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+Thursday                 218 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Friday                   178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Saturday                 266 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Sunday                   197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   5 hrs 32 mins       ████████████████████████░   94.80 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 50 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+breaching                2 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   41.45 % 
+safe-pfl                 1 hr 46 mins        ████████░░░░░░░░░░░░░░░░░   30.38 % 
+breaching [GitHub]       47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+distances                37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+DynamicPFL               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+
+💻 Operating System: 
+Windows                  5 hrs 45 mins       █████████████████████████   98.60 % 
+Linux                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -143,7 +180,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mmRoshani/mmRoshani/main/assets/bar_graph.png)
 
 
- Last Updated on 10/04/2025 01:35:50 UTC
+ Last Updated on 11/04/2025 01:37:54 UTC
 <!--END_SECTION:waka-->
 
 <p>
