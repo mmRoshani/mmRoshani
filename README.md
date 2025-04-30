@@ -118,8 +118,6 @@ i | package name | github | npm | downloads | linkedin | introduction
 
 > 📦 442.5 kB Used in GitHub's Storage 
  > 
-> 🏆 112 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 101 Public Repositories 
@@ -181,7 +179,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mmRoshani/mmRoshani/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2025 01:40:27 UTC
+ Last Updated on 30/04/2025 01:38:59 UTC
 <!--END_SECTION:waka-->
 
 <p>
