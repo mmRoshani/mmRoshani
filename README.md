@@ -110,15 +110,15 @@ i | package name | github | npm | downloads | linkedin | introduction
     </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C452%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C460%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 442.5 kB Used in GitHub's Storage 
+> 📦 442.7 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 112 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -126,44 +126,6 @@ i | package name | github | npm | downloads | linkedin | introduction
  > 
 > 🔑 70 Private Repositories 
  > 
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Tuesday                  245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Wednesday                390 commits         ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-Thursday                 218 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Friday                   184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Saturday                 267 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Sunday                   197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   11 hrs 10 mins      █████████████████████░░░░   84.61 % 
-Jupyter                  1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-
-🔥 Editors: 
-PyCharm                  11 hrs 19 mins      █████████████████████░░░░   85.79 % 
-VS Code                  1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-
-🐱‍💻 Projects: 
-safe-pfl-framework       11 hrs 38 mins      ██████████████████████░░░   88.12 % 
-federact [GitHub]        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-federact                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-DynamicPFL               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-
-💻 Operating System: 
-Windows                  12 hrs 53 mins      ████████████████████████░   97.67 % 
-WSL                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -181,7 +143,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mmRoshani/mmRoshani/main/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2025 01:51:08 UTC
+ Last Updated on 06/05/2025 01:40:56 UTC
 <!--END_SECTION:waka-->
 
 <p>
