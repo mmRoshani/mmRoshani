@@ -110,13 +110,13 @@ i | package name | github | npm | downloads | linkedin | introduction
     </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C460%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C462%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 442.7 kB Used in GitHub's Storage 
+> 📦 442.9 kB Used in GitHub's Storage 
  > 
 > 🏆 112 Contributions in the Year 2025
  > 
@@ -126,6 +126,45 @@ i | package name | github | npm | downloads | linkedin | introduction
  > 
 > 🔑 70 Private Repositories 
  > 
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Tuesday                  245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Wednesday                390 commits         ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+Thursday                 218 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Friday                   184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Saturday                 267 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Sunday                   197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   19 hrs 7 mins       ████████████████████░░░░░   81.50 % 
+Markdown                 2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Jupyter                  1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+reStructuredText         9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+
+🔥 Editors: 
+PyCharm                  18 hrs 15 mins      ███████████████████░░░░░░   77.80 % 
+VS Code                  5 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
+
+🐱‍💻 Projects: 
+safe-pfl-framework       18 hrs 34 mins      ████████████████████░░░░░   79.11 % 
+cloud-computing-2025     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+federact [GitHub]        1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+federated-esn [GitHub]   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+federact                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+
+💻 Operating System: 
+Windows                  21 hrs 15 mins      ███████████████████████░░   90.57 % 
+WSL                      2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -143,7 +182,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mmRoshani/mmRoshani/main/assets/bar_graph.png)
 
 
- Last Updated on 06/05/2025 01:40:56 UTC
+ Last Updated on 07/05/2025 01:42:23 UTC
 <!--END_SECTION:waka-->
 
 <p>
