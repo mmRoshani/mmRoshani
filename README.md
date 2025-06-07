@@ -110,15 +110,15 @@ i | package name | github | npm | downloads | linkedin | introduction
     </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C507%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C507%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 452.8 kB Used in GitHub's Storage 
+> 📦 452.9 kB Used in GitHub's Storage 
  > 
-> 🏆 163 Contributions in the Year 2025
+> 🏆 173 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -126,6 +126,42 @@ i | package name | github | npm | downloads | linkedin | introduction
  > 
 > 🔑 71 Private Repositories 
  > 
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   262 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Tuesday                  257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Wednesday                408 commits         ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+Thursday                 235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Friday                   184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+Saturday                 292 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Sunday                   201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   4 hrs 3 mins        ██████████████████░░░░░░░   71.42 % 
+YAML                     1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 56 mins       █████████████░░░░░░░░░░░░   51.66 % 
+Cursor                   2 hrs 44 mins       ████████████░░░░░░░░░░░░░   48.34 % 
+
+🐱‍💻 Projects: 
+coordinate-similarity    5 hrs 38 mins       █████████████████████████   99.26 % 
+FedTP                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+
+💻 Operating System: 
+Linux                    2 hrs 53 mins       █████████████░░░░░░░░░░░░   50.92 % 
+Windows                  2 hrs 47 mins       ████████████░░░░░░░░░░░░░   49.08 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -143,7 +179,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mmRoshani/mmRoshani/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2025 01:51:18 UTC
+ Last Updated on 07/06/2025 01:44:18 UTC
 <!--END_SECTION:waka-->
 
 <p>
