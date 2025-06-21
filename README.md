@@ -118,7 +118,7 @@ i | package name | github | npm | downloads | linkedin | introduction
 
 > 📦 453.7 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 214 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -143,19 +143,16 @@ Sunday                   221 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 3 mins         █████████████████████░░░░   83.75 % 
-Text                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 hr 16 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-federated-learning-framew1 hr 7 mins         ██████████████████████░░░   88.77 % 
-javad_code               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 16 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -175,7 +172,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mmRoshani/mmRoshani/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2025 01:53:20 UTC
+ Last Updated on 21/06/2025 01:51:15 UTC
 <!--END_SECTION:waka-->
 
 <p>
