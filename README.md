@@ -110,15 +110,13 @@ i | package name | github | npm | downloads | linkedin | introduction
     </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C518%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C519%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 453.7 kB Used in GitHub's Storage 
- > 
-> 🏆 251 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -143,16 +141,20 @@ Sunday                   242 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Makefile                 39 mins             █████████████████░░░░░░░░   68.70 % 
+YAML                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Text                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   57 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+federated-learning-framew57 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      57 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -172,7 +174,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mmRoshani/mmRoshani/main/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2025 01:44:02 UTC
+ Last Updated on 29/06/2025 02:03:43 UTC
 <!--END_SECTION:waka-->
 
 <p>
