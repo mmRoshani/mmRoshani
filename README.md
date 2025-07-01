@@ -110,15 +110,13 @@ i | package name | github | npm | downloads | linkedin | introduction
     </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C520%20hrs%2040%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 453.7 kB Used in GitHub's Storage 
+> 📦 453.9 kB Used in GitHub's Storage 
  > 
-> 🏆 253 Contributions in the Year 2025
+> 🏆 256 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -126,39 +124,6 @@ i | package name | github | npm | downloads | linkedin | introduction
  > 
 > 🔑 73 Private Repositories 
  > 
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   297 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Tuesday                  285 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Wednesday                434 commits         █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-Thursday                 282 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Friday                   185 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Saturday                 308 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Sunday                   242 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   54 mins             █████████░░░░░░░░░░░░░░░░   36.11 % 
-Makefile                 43 mins             ███████░░░░░░░░░░░░░░░░░░   29.01 % 
-YAML                     26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-CSV                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-
-🔥 Editors: 
-Cursor                   2 hrs 30 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-federated-learning-framew2 hrs 30 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-WSL                      2 hrs 30 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -176,7 +141,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mmRoshani/mmRoshani/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2025 01:59:15 UTC
+ Last Updated on 01/07/2025 02:04:07 UTC
 <!--END_SECTION:waka-->
 
 <p>
