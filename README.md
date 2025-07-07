@@ -110,7 +110,7 @@ i | package name | github | npm | downloads | linkedin | introduction
     </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C526%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C527%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -118,7 +118,7 @@ i | package name | github | npm | downloads | linkedin | introduction
 
 > 📦 454.4 kB Used in GitHub's Storage 
  > 
-> 🏆 294 Contributions in the Year 2025
+> 🏆 298 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -126,42 +126,6 @@ i | package name | github | npm | downloads | linkedin | introduction
  > 
 > 🔑 73 Private Repositories 
  > 
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   301 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Tuesday                  293 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Wednesday                508 commits         █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-Thursday                 390 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Friday                   207 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Saturday                 355 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Sunday                   260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   5 hrs 4 mins        █████████████████░░░░░░░░   69.64 % 
-YAML                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Text                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Makefile                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-CSV                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 45 mins       ████████████████░░░░░░░░░   65.45 % 
-Cursor                   2 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   34.55 % 
-
-🐱‍💻 Projects: 
-federated-learning-framew3 hrs 40 mins       █████████████░░░░░░░░░░░░   50.47 % 
-fedpilot                 3 hrs 33 mins       ████████████░░░░░░░░░░░░░   48.79 % 
-pyenv                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-
-💻 Operating System: 
-WSL                      7 hrs 16 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -179,7 +143,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mmRoshani/mmRoshani/main/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2025 02:01:23 UTC
+ Last Updated on 07/07/2025 01:59:10 UTC
 <!--END_SECTION:waka-->
 
 <p>
