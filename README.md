@@ -112,13 +112,13 @@ i | package name | github | npm | downloads | linkedin | introduction
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C556%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 468.3 kB Used in GitHub's Storage 
  > 
-> 🏆 437 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -129,13 +129,13 @@ i | package name | github | npm | downloads | linkedin | introduction
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   416 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Tuesday                  310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Wednesday                552 commits         █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-Thursday                 402 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Friday                   231 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Saturday                 371 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Sunday                   282 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Monday                   416 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Tuesday                  310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Wednesday                553 commits         █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+Thursday                 404 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Friday                   232 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Saturday                 371 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Sunday                   283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
 ```
 
 
@@ -181,7 +181,7 @@ Blade                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mmRoshani/mmRoshani/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2025 01:58:06 UTC
+ Last Updated on 15/08/2025 01:57:51 UTC
 <!--END_SECTION:waka-->
 
 <p>
