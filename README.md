@@ -2,9 +2,7 @@
 
 #### MohammadMojtaba Roshani
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Console&size=12&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=435&lines=Distributed+System+Engineer)](https://git.io/typing-svg)
-
-🌐 **[mmRoshani.ir](https://mmRoshani.ir)** — Portfolio, articles, and more
+🌐 **[mmRoshani.ir](https://mmRoshani.ir)** — Articles, and more
 
 </div>
 
@@ -75,16 +73,6 @@ Currently growing toward a senior distributed systems role — part engineer, pa
 
 ---
 
-### Articles
-
-> Read more on my website: **[mmRoshani.ir](https://mmRoshani.ir)**
-
-| # | Title | Read | Published |
-|---|-------|------|-----------|
-| 1 | An Introduction to Data Streaming | [Medium](https://medium.com/@mmroshani/an-introduction-to-data-streaming-98b19d7a4a) · [Website](https://mmroshani.ir/an-introduction-to-data-streaming/) | 2023-04-22 |
-
----
-
 ### Open-Source Contributions
 
 | # | Package | Source | Registry | Downloads |
@@ -101,90 +89,5 @@ Currently growing toward a senior distributed systems role — part engineer, pa
 
 ![Snake animation](https://github.com/mmRoshani/mmRoshani/blob/output/github-contribution-grid-snake.svg)
 
-<p><img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mmRoshani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="mmRoshani"/></p>
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C567%20hrs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
-
-**🐱 My GitHub Data**
-
-> 📦 468.4 kB Used in GitHub's Storage
- >
-> 💼 Opted to Hire
- >
-> 📜 105 Public Repositories
- >
-> 🔑 71 Private Repositories
- >
-📅 **I'm Most Productive on Wednesday**
-```text
-Monday                   416 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
-Tuesday                  310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
-Wednesday                553 commits         █████░░░░░░░░░░░░░░░░░░░░   21.42 %
-Thursday                 404 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
-Friday                   243 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-Saturday                 373 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 %
-Sunday                   283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 %
-
-
-📊 **This Week I Spent My Time On**
-
-text
-💬 Programming Languages:
-Go                       9 hrs 16 mins       ███████████████░░░░░░░░░░   60.70 %
-TypeScript               1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.29 %
-Other                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-
-🔥 Editors:
-Cursor                   14 hrs 50 mins      ████████████████████████░   97.16 %
-VS Code                  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-
-🐱‍💻 Projects:
-fedpilot-backend-go      8 hrs 42 mins       ██████████████░░░░░░░░░░░   57.00 %
-dashboard-backend-fastapi2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.26 %
-dashboard-backend-go     1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
-fedpilot-frontend-next   56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
-dashboard-frontend-next  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-
-💻 Operating System:
-Linux                    15 hrs 16 mins      █████████████████████████   100.00 %
-
-**I Mostly Code in Python**
-
-text
-Python                   27 repos            █████░░░░░░░░░░░░░░░░░░░░   20.30 %
-TypeScript               16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
-Jupyter Notebook         10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-Shell                    7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-Blade                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/mmRoshani/mmRoshani/main/assets/bar_graph.png)
-
-
- Last Updated on 17/08/2025 02:03:30 UTC
-<!--END_SECTION:waka-->
-
-<p>
-<em>Note: Language stats reflect GitHub-hosted code, not proficiency level.</em>
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-> *"The boring or hardest way not only works but also makes you stronger."*
->
-> — MohammadMojtaba Roshani
-
-**[🌐 Visit mmRoshani.ir](https://mmRoshani.ir)**
-
-</div>
